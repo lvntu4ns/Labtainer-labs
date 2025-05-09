@@ -1,3 +1,2 @@
 # Labtainer-labs
-
-Labs giấu tin
+imodule <đường dẫn bài lab>
